@@ -54,10 +54,6 @@ Command: "List phones with the most reviews."
 Action: Returns phones that have the highest number of reviews.
 
 6. Product Search Queries
-   
-Command: "Search phone iPhone 13 Pro."
-
-Action: Finds and returns details of the iPhone 13 Pro from the dataset.
 
 Command: "Find Samsung Galaxy S21."
 
